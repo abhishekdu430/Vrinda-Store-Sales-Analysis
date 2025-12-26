@@ -27,7 +27,9 @@ It is designed for **business stakeholders** to make quick, data-driven decision
 ---
 
 ## 🖼️ Dashboard Preview
-![Vrinda Store Sales Dashboard](images/vrinda_store_dashboard.png)
+## 🖼️ Dashboard Preview
+![Vrinda Store Sales Dashboard](images/Vrinda_store_sales.png)
+
 
 ---
 
@@ -65,14 +67,32 @@ It is designed for **business stakeholders** to make quick, data-driven decision
 - Interactive charts and KPIs
 
 ---
+🚀 How to Use
 
-## 📁 Project Structure
-```text
-vrinda-store-sales-dashboard-excel/
-│
-├── Vrinda_Store_Sales_Performance.xlsx
-├── images/
-│   └── vrinda_store_dashboard.png
-├── README.md
+Download the Excel file from this repository
 
+Open it in Microsoft Excel
+
+Use the available slicers to filter data by:
+
+Month
+
+Category
+
+Sales Channel
+
+Age Group
+
+Interact with the dashboard to analyze sales performance visually
+
+👤 Author
+
+Abhishek Kumar
+Aspiring Data Analyst
+
+🔗 GitHub: https://github.com/abhishekdu430
+
+🔗 LinkedIn: https://www.linkedin.com/in/abhishekkumar430
+
+⭐ If you like this project, don’t forget to give it a star!
 
