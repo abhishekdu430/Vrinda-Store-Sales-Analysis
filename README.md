@@ -76,22 +76,3 @@ vrinda-store-sales-dashboard-excel/
 ├── README.md
 
 
-🚀 How to Use
-Download the Excel file
-
-Open in Microsoft Excel
-
-Use slicers to interact with the dashboard
-
-Analyze sales performance visually
-
-👤 Author
-Abhishek Kumar
-Aspiring Data Analyst
-
-🔗 GitHub: https://github.com/abhishekdu430
-🔗 LinkedIn: https://www.linkedin.com/in/abhishekkumar430
-
-⭐ If you like this project, don’t forget to give it a star!
-
-
