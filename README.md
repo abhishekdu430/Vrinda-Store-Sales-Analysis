@@ -27,8 +27,8 @@ It is designed for **business stakeholders** to make quick, data-driven decision
 ---
 
 ## 🖼️ Dashboard Preview
-## 🖼️ Dashboard Preview
-![Vrinda Store Sales Dashboard](images/Vrinda_store_sales.png)
+![Vrinda Store Sales Dashboard](Vrinda_store_sales.png)
+
 
 
 ---
